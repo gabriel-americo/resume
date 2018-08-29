@@ -928,3 +928,7 @@ a.btn:hover {
 .config-panel .close .fa {
   color: #fff;
 }
+
+.circle {
+  clip-path: circle(80px at center);
+}
